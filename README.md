@@ -1,6 +1,6 @@
 -Overview
 
-The Project Zomboid Server Manager is a comprehensive tool designed to streamline the management of Project Zomboid game servers. With an intuitive interface and robust features, it allows server administrators to effortlessly start, stop, and monitor their servers. This tool is perfect for both new and experienced users who want to host their own multiplayer servers for Project Zomboid.
+GSM is a comprehensive tool designed to streamline the management of Project Zomboid game servers. With an intuitive interface and robust features, it allows server administrators to effortlessly start, stop, and monitor their servers. This tool is perfect for both new and experienced users who want to host their own multiplayer servers for Project Zomboid.
 
 -Features
 
