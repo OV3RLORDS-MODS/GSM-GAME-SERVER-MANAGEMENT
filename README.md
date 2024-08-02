@@ -1,6 +1,6 @@
 🎮 Hello and welcome! Thanks for checking out my panel. Here’s a bit about me: After years of hosting game servers, I became frustrated with the high costs, complex setups, and underwhelming features of existing panels. That’s why I created GSM.
 
-As a solo developer, my focus with GSM is on functionality over appearance. While the design will evolve over time, my main priority is delivering a truly effective tool. GSM is not a web panel—you'll need to install it and open it with the terminal. Keep an eye on GitHub or join my Discord for updates and announcements. With its user-friendly interface and features, GSM offers seamless control and monitoring of your servers. Enjoy easy setup, real-time server management, and robust mod handling, all designed to enhance your server administration experience. 🌟
+As a solo developer, my focus with GSM is on functionality over appearance. While the design will evolve over time, my main priority is delivering a truly effective tool. GSM is not a web panel—you'll need to install it and open it with the terminal. Keep an eye on GitHub or join my Discord for updates and announcements. With its user-friendly interface and features, GSM offers seamless control and monitoring of your servers. Enjoy easy setup, real-time server management, and mod handling, all designed to enhance your server administration experience. 🌟
 
 ------------------------------------------------------------------------------------------------
 
@@ -24,10 +24,14 @@ Features:
 
 ------------------------------------------------------------------------------------------------
 
-Why Choose Project Zomboid Server Manager?
-Managing a Project Zomboid server manually can be challenging and time-consuming. GSM simplifies this process by bringing all essential features together in one place, making server management straightforward for everyone. Whether you’re hosting a small private server or a larger public one, GSM ensures smooth operation and hassle-free management.
 
-Easy Installation and Setup
+Why Choose GSM?
+
+Managing a Project Zomboid server manually can be both challenging and time-consuming. GSM streamlines this process by consolidating all essential features into one powerful tool, making server management straightforward and efficient. Whether you're running a small private server or a larger public one, GSM ensures smooth operation and effortless control.
+
+Easy Installation and Setup: GSM is designed for quick and simple setup, allowing you to get your server up and running in no time. Say goodbye to complicated configurations and hello to hassle-free server management.
+
+Affordable Pricing: GSM is available for just £2.50 per month, with a 7-day free trial to explore all its features before committing. This pricing helps support the continued development and maintenance of the application, ensuring you receive ongoing updates and improvements.
 🚀 Quick and Simple Setup: Unlike traditional tools like TCAdmin or Pterodactyl, which can be complicated and require complex configurations, GSM offers a streamlined setup process. Download, install, and you’re ready to go!
 
 🧑‍💻 Intuitive Design: With its user-friendly interface, even those with minimal technical skills can easily use GSM.
