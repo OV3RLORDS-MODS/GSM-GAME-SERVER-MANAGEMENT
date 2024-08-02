@@ -48,7 +48,7 @@ You may use the Software free of charge for a period of seven (7) days from the 
 
 To use the Software beyond the Trial Period, you must purchase a license for £2.50. A valid license key must be entered to continue using the Software after the Trial Period. 
 
-For purchasing a license, please visit [Your Website or Contact Information].
+For purchasing a license.
 
 ## 2. Commercial Use
 
