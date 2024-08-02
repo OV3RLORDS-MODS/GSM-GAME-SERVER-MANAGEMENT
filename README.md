@@ -1,23 +1,26 @@
 🎮 Hello and welcome! Thanks for checking out my panel. Here’s a bit about me: After years of hosting game servers, I became frustrated with the high costs, complex setups, and underwhelming features of existing panels. That’s why I created GSM.
 
-GSM is focused on functionality over appearance. While the design will evolve over time, my priority is delivering a truly effective panel. With its user-friendly interface and powerful features, GSM offers seamless control and monitoring of your servers. Enjoy easy setup, real-time server management, and robust mod handling, all designed to enhance your server administration experience. 🌟
+As a solo developer, my focus with GSM is on functionality over appearance. While the design will evolve over time, my main priority is delivering a truly effective tool. GSM is not a web panel—you'll need to install it and open it with the terminal. Keep an eye on GitHub or join my Discord for updates and announcements. With its user-friendly interface and features, GSM offers seamless control and monitoring of your servers. Enjoy easy setup, real-time server management, and robust mod handling, all designed to enhance your server administration experience. 🌟
 
 ------------------------------------------------------------------------------------------------
 
-Features
+Features:
+
 🕹️ Server Control: Start, stop, or restart your Project Zomboid server with just a single click.
 
 📜 Console Access: View live server output and send commands directly to the server console in real-time.
 
-⚙️ Settings Management: Configure essential server settings like name, max players, and port directly within the app.
+⚙️ Settings Management: Easily configure essential server settings such as server name, maximum players, and port directly within the app. Additionally, customize advanced settings like server performance options, game rules, and admin permissions to tailor your server experience exactly to your preferences.
 
-🧩 Mod Management: Effortlessly organize and manage your Project Zomboid mods, including browsing and applying mods from a specific directory.
+🧩 Mod Management: Effortlessly organize and manage your Project Zomboid mods. Download mods directly from URLs and automatically place them in the designated directory, or browse and apply mods from your existing directory with ease.
 
 📅 Scheduling: Automate server operations and plan tasks with the built-in scheduling feature for seamless management.
 
 🔍 Server Status: Keep an eye on your server's status with real-time updates and visual indicators.
 
 👨‍💻 User-Friendly Interface: Designed for both beginners and experienced admins, featuring an intuitive and easy-to-navigate layout.
+
+** There will be bugs as any ther applcatins. Please reprt any so I can get it fixed quickly. 
 
 ------------------------------------------------------------------------------------------------
 
