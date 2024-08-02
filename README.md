@@ -24,7 +24,6 @@ Features:
 
 ------------------------------------------------------------------------------------------------
 
-
 Why Choose GSM?
 
 Managing a Project Zomboid server manually can be both challenging and time-consuming. GSM streamlines this process by consolidating all essential features into one powerful tool, making server management straightforward and efficient. Whether you're running a small private server or a larger public one, GSM ensures smooth operation and effortless control.
@@ -37,3 +36,53 @@ Affordable Pricing: GSM is available for just £2.50 per month, with a 7-day fre
 🧑‍💻 Intuitive Design: With its user-friendly interface, even those with minimal technical skills can easily use GSM.
 
 ⏱️ Fast Start: Get up and running in minutes. Choose your batch file, adjust settings, and start your server without extensive configuration or web panel setups.
+
+------------------------------------------------------------------------------------------------
+
+# Custom License for Game Server Management Panel
+
+## 1. Grant of License
+
+### Trial License
+
+You may use the Software free of charge for a period of seven (7) days from the date of first use ("Trial Period"). After the Trial Period, you must obtain a paid license to continue using the Software.
+
+### Paid License
+
+To use the Software beyond the Trial Period, you must purchase a license for £2.50. A valid license key must be entered to continue using the Software after the Trial Period. 
+
+For purchasing a license, please visit [Your Website or Contact Information].
+
+## 2. Commercial Use
+
+Commercial use of the Software requires a paid license. This includes, but is not limited to, using the Software in a business environment, offering it as a service to others, or incorporating it into a commercial product.
+
+## 3. Redistribution and Sharing
+
+You are not permitted to sell, rent, lease, sublicense, distribute, or otherwise make the Software available to any third party without prior written permission from the copyright holder.
+
+## 4. Modifications
+
+You may modify the Software for personal, non-commercial, and educational use. However, any modifications, including customizations, enhancements, or derivative works, must not be distributed, shared publicly, or used for commercial purposes without obtaining prior written permission from the copyright holder.
+
+## 5. Attribution
+
+You must retain the original copyright notice, this list of conditions, and the following disclaimer in all copies or substantial portions of the Software.
+
+## 6. Disclaimer of Warranty
+
+The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+## 7. Termination
+
+This license is effective until terminated. Your rights under this license will terminate automatically without notice from the copyright holder if you fail to comply with any term(s) of this license. Upon termination, you shall cease all use of the Software and destroy all copies, full or partial, of the Software.
+
+## Contact Information
+
+For inquiries regarding commercial licensing or to purchase a license, please contact:
+
+N.A
+
+## Copyright Notice
+
+© 2024 GSM - GAME SERVER MANANGEMENT. All rights reserved.
