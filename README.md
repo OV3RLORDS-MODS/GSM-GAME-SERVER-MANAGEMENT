@@ -20,8 +20,6 @@ Features:
 
 👨‍💻 User-Friendly Interface: Designed for both beginners and experienced admins, featuring an intuitive and easy-to-navigate layout.
 
-** There will be bugs as any ther applcatins. Please reprt any so I can get it fixed quickly. 
-
 ------------------------------------------------------------------------------------------------
 
 Why Choose GSM?
