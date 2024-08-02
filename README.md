@@ -5,15 +5,10 @@ GSM is a comprehensive tool designed to streamline the management of Project Zom
 -Features
 
 Server Control: Easily start, stop, and restart your Project Zomboid server with a single click.
-
 Console Access: View real-time server output and send commands directly to the server console.
-
 Settings Management: Configure server settings such as server name, maximum players, and port directly within the application.
-
 Mod Management: Organize and manage your Project Zomboid mods. The application supports browsing and applying mods from a designated directory.
-
 Scheduling: Plan and automate server operations with the built-in scheduling feature.
-
 Server Status: Monitor server status with real-time updates and visual indicators.
 User-Friendly Interface: An easy-to-use interface designed for both new and experienced server administrators.
 Why Use Project Zomboid Server Manager?
