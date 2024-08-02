@@ -33,7 +33,7 @@ Affordable Pricing: GSM is available for just £2.50 per month, with a 7-day fre
 
 🧑‍💻 Intuitive Design: With its user-friendly interface, even those with minimal technical skills can easily use GSM.
 
-⏱️ Fast Start: Get up and running in minutes. Choose your batch file, adjust settings, and start your server without extensive configuration or web panel setups.
+⏱️ Fast Start: Get up and running in minutes. Choose your batch file, mod directry and adjust settings, and start your server without extensive configuration or web panel setups.
 
 ------------------------------------------------------------------------------------------------
 
