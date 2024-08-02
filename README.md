@@ -12,7 +12,7 @@ Features:
 
 ⚙️ Settings Management: Easily configure essential server settings such as server name, maximum players, and port directly within the app. Additionally, customize advanced settings like server performance options, game rules, and admin permissions to tailor your server experience exactly to your preferences.
 
-🧩 Mod Management: Effortlessly organize and manage your Project Zomboid mods. Download mods directly from URLs and automatically place them in the designated directory, or browse and apply mods from your existing directory with ease.
+🧩 Mod Management: Effortlessly organize and manage your Project Zomboid mods. Download mods directly from URLs and automatically place them in the designated directory, or browse and apply mods from your existing directory with ease. Note: Ensure the website you're downloading from allows direct downloads to avoid any issues.
 
 📅 Scheduling: Automate server operations and plan tasks with the built-in scheduling feature for seamless management.
 
