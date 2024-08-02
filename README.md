@@ -1,4 +1,8 @@
-🎮 Project Zomboid Server Manager (GSM) is the ultimate solution for effortlessly managing your Project Zomboid game servers. With its user-friendly interface and powerful features, it allows server administrators to easily start, stop, and monitor their servers. Whether you’re new to hosting or a seasoned pro, GSM makes running your multiplayer servers a breeze.
+🎮 Hello and welcome! Thanks for checking out my panel. Here’s a bit about me: After years of hosting game servers, I became frustrated with the high costs, complex setups, and underwhelming features of existing panels. That’s why I created GSM.
+
+GSM is focused on functionality over appearance. While the design will evolve over time, my priority is delivering a truly effective panel. With its user-friendly interface and powerful features, GSM offers seamless control and monitoring of your servers. Enjoy easy setup, real-time server management, and robust mod handling, all designed to enhance your server administration experience. 🌟
+
+------------------------------------------------------------------------------------------------
 
 Features
 🕹️ Server Control: Start, stop, or restart your Project Zomboid server with just a single click.
@@ -14,6 +18,8 @@ Features
 🔍 Server Status: Keep an eye on your server's status with real-time updates and visual indicators.
 
 👨‍💻 User-Friendly Interface: Designed for both beginners and experienced admins, featuring an intuitive and easy-to-navigate layout.
+
+------------------------------------------------------------------------------------------------
 
 Why Choose Project Zomboid Server Manager?
 Managing a Project Zomboid server manually can be challenging and time-consuming. GSM simplifies this process by bringing all essential features together in one place, making server management straightforward for everyone. Whether you’re hosting a small private server or a larger public one, GSM ensures smooth operation and hassle-free management.
