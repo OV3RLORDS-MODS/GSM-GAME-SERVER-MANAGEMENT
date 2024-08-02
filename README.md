@@ -1,30 +1,26 @@
--Overview
+🎮 Project Zomboid Server Manager (GSM) is the ultimate solution for effortlessly managing your Project Zomboid game servers. With its user-friendly interface and powerful features, it allows server administrators to easily start, stop, and monitor their servers. Whether you’re new to hosting or a seasoned pro, GSM makes running your multiplayer servers a breeze.
 
-GSM is a comprehensive tool designed to streamline the management of Project Zomboid game servers. With an intuitive interface and robust features, it allows server administrators to effortlessly start, stop, and monitor their servers. This tool is perfect for both new and experienced users who want to host their own multiplayer servers for Project Zomboid.
+Features
+🕹️ Server Control: Start, stop, or restart your Project Zomboid server with just a single click.
 
--Features
+📜 Console Access: View live server output and send commands directly to the server console in real-time.
 
-Server Control: Easily start, stop, and restart your Project Zomboid server with a single click.
-Console Access: View real-time server output and send commands directly to the server console.
-Settings Management: Configure server settings such as server name, maximum players, and port directly within the application.
-Mod Management: Organize and manage your Project Zomboid mods. The application supports browsing and applying mods from a designated directory.
-Scheduling: Plan and automate server operations with the built-in scheduling feature.
-Server Status: Monitor server status with real-time updates and visual indicators.
-User-Friendly Interface: An easy-to-use interface designed for both new and experienced server administrators.
-Why Use Project Zomboid Server Manager?
-Managing a Project Zomboid server manually can be complex and time-consuming. This tool simplifies the process, providing all the essential features in one place, making server management accessible to everyone. Whether you're running a small private server for friends or a larger public server, this application ensures smooth operation and easy management.
+⚙️ Settings Management: Configure essential server settings like name, max players, and port directly within the app.
 
--Easy Installation and Setup
+🧩 Mod Management: Effortlessly organize and manage your Project Zomboid mods, including browsing and applying mods from a specific directory.
 
-Setting up a game server with traditional management tools like TCAdmin or Pterodactyl can be complicated, often requiring intricate configurations and additional dependencies. The Project Zomboid Server Manager is designed to be much simpler:
-No Complex Setup: Unlike TCAdmin and Pterodactyl, which involve multi-step installations and server-side configurations, our tool requires minimal setup. Just download, install, and you’re ready to manage your server.
-User-Friendly Interface: With an intuitive design, even users without advanced technical skills can easily navigate and use the tool.
-Quick Start: Begin managing your server within minutes. Simply select your batch file, configure settings, and start your server. No need for extensive server or web panel configurations.
+📅 Scheduling: Automate server operations and plan tasks with the built-in scheduling feature for seamless management.
 
--How to Get Started
-Download and Install: Download the Project Zomboid Server Manager from the provided link and follow the installation instructions.
-Select Batch File: Use the application to select the batch file associated with your Project Zomboid server.
-Configure Settings: Set up your server settings, including server name, max players, and port.
-Start the Server: Start your server with a single click and monitor the output through the console.
-Manage Mods: Add and manage mods from your designated mod directory.
-Automate with Scheduling: Schedule regular server operations to ensure consistent uptime and maintenance.
+🔍 Server Status: Keep an eye on your server's status with real-time updates and visual indicators.
+
+👨‍💻 User-Friendly Interface: Designed for both beginners and experienced admins, featuring an intuitive and easy-to-navigate layout.
+
+Why Choose Project Zomboid Server Manager?
+Managing a Project Zomboid server manually can be challenging and time-consuming. GSM simplifies this process by bringing all essential features together in one place, making server management straightforward for everyone. Whether you’re hosting a small private server or a larger public one, GSM ensures smooth operation and hassle-free management.
+
+Easy Installation and Setup
+🚀 Quick and Simple Setup: Unlike traditional tools like TCAdmin or Pterodactyl, which can be complicated and require complex configurations, GSM offers a streamlined setup process. Download, install, and you’re ready to go!
+
+🧑‍💻 Intuitive Design: With its user-friendly interface, even those with minimal technical skills can easily use GSM.
+
+⏱️ Fast Start: Get up and running in minutes. Choose your batch file, adjust settings, and start your server without extensive configuration or web panel setups.
