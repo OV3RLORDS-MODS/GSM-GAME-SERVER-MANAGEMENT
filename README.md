@@ -30,8 +30,6 @@ Managing a Project Zomboid server manually can be both challenging and time-cons
 
 Easy Installation and Setup: GSM is designed for quick and simple setup, allowing you to get your server up and running in no time. Say goodbye to complicated configurations and hello to hassle-free server management.
 
-Affordable Pricing: GSM is available for just £2.50 per month, with a 7-day free trial to explore all its features before committing. This pricing helps support the continued development and maintenance of the application, ensuring you receive ongoing updates and improvements.
-
 🚀 Quick and Simple Setup: Unlike traditional tools like TCAdmin or Pterodactyl, which can be complicated and require complex configurations, GSM offers a streamlined setup process. Download, install, and you’re ready to go!
 
 ------------------------------------------------------------------------------------------------
